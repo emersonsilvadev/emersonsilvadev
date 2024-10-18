@@ -1,8 +1,10 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Hello,+World!&color=00FF00" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Hello,+World!&color=00FF00" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="left"><br>Me chamo Emerson Silva, sou Técnico em Informática e estudante em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR), sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação.</h3>
+<h4 align="left"><br>Me chamo Emerson Silva, sou Técnico em Informática e estudante em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR), sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação.</h4>
 
 ###
 
