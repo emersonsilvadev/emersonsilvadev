@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h4 align="left"><br>Me chamo Emerson Silva, sou Técnico em Informática e estudante em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR), sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação.</h4>
+<h4 align="left"><br>Sou Técnico em Informática e estudante em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR), sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação.</h4>
 
 ###
 
