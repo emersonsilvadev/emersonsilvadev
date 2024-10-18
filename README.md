@@ -1,16 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✢+Welcome+to+my+profile!+✢;&color=00FF00" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=✛+Welcome+to+my+profile!+✛;✛ Meu+nome+é+Emerson+Silva ✛&color=0000FF" alt="Typing SVG" />
   </a>
 </div>
 
-<h4 align="left"><br>Sou Técnico em Informática e estudante em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR), sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação.</h4>
+<h4 align="left" style="color: #0000FF;"><br>Técnico em Informática e estudante em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR).
+Apaixonado por tecnologia, desenvolvimento de software e segurança da informação.</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emersonsilvadev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonsilvadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=emersonsilvadev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&text_color=0000FF" height="150" alt="Emerson Silva Github Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonsilvadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&text_color=0000FF" height="150" alt="Most Used Languages"  />
 </div>
 
 ###
@@ -63,6 +64,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 ###
+
