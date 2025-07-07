@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✛+Welcome+to+my+profile!+✛;✛ Meu+nome+é+Emerson+Silva ✛&color=0000FF" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <h4 align="left" style="color: #0000FF;"><br>Técnico em Informática e estudante em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica do Paraná (PUCPR).
 Apaixonado por tecnologia, desenvolvimento de software e segurança da informação.</h4>
